@@ -7,3 +7,7 @@ Nintendo Switch Online SNES controller support for Unity's Input System.
 ```
 https://github.com/ryanslikesocool/InputSystem-NSO-SNES.git
 ```
+
+# Support
+This package has been tested on the following platforms:
+- Unity Editor 2022.3.32f1 (macOS)
