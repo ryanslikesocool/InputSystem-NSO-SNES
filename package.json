@@ -1,9 +1,9 @@
 {
-  "name": "com.developedwithlove.inputsystem-nso-snes",
+  "name": "com.developedwithlove.inputsystem.nso-snes",
   "displayName": "NSO SNES",
-  "version": "0.1.0-pre.1",
+  "version": "0.1.0-pre.2",
   "unity": "2022.3",
-  "description": "Nintendo Switch Online SNES controller support for Unity's [Input System](https://docs.unity3d.com/Packages/com.unity.inputsystem@1.8/manual/index.html).",
+  "description": "Nintendo Switch Online SNES controller support for Unity's Input System.",
   "documentationUrl": "https://github.com/ryanslikesocool/InputSystem-NSO-SNES",
   "author": {
     "name": "Ryan Boyer",
